@@ -1,0 +1,39 @@
+body {
+    background-color: pink;
+    font-family: 'Alkatra', cursive;
+}
+
+.header_div {
+    background-color: white;
+    color: tomato;
+    font-size: 25px;
+}
+
+.header_div p {
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: grey;
+}
+
+.main_div button {
+    font-family: 'Alkatra', cursive;
+    font-family: 'Are You Serious', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    margin-top: 30px;
+    width: 130px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: red;
+    background-color: white;
+    font-size: 18px;
+    bottom: 0;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+    text-shadow: 5px 5px 5px lightblue;
+}
